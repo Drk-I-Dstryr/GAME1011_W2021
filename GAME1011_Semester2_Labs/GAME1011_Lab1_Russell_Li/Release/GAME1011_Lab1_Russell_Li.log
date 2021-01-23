@@ -1,0 +1,13 @@
+﻿  Lab1_Russell_Li.cpp
+C:\Users\russe\source\repos\GAME1011_Semester2_Labs\GAME1011_Lab1_Russell_Li\Lab1_Russell_Li.cpp(33,17): error C3646: 'ada': unknown override specifier
+C:\Users\russe\source\repos\GAME1011_Semester2_Labs\GAME1011_Lab1_Russell_Li\Lab1_Russell_Li.cpp(33,17): error C2143: syntax error: missing ',' before '['
+C:\Users\russe\source\repos\GAME1011_Semester2_Labs\GAME1011_Lab1_Russell_Li\Lab1_Russell_Li.cpp(33,19): error C2238: unexpected token(s) preceding ';'
+C:\Users\russe\source\repos\GAME1011_Semester2_Labs\GAME1011_Lab1_Russell_Li\Lab1_Russell_Li.cpp(41,6): error C2061: syntax error: identifier 'Achievement'
+C:\Users\russe\source\repos\GAME1011_Semester2_Labs\GAME1011_Lab1_Russell_Li\Lab1_Russell_Li.cpp(48,4): error C2065: 'ada': undeclared identifier
+C:\Users\russe\source\repos\GAME1011_Semester2_Labs\GAME1011_Lab1_Russell_Li\Lab1_Russell_Li.cpp(48,19): error C2065: 'achievements': undeclared identifier
+C:\Users\russe\source\repos\GAME1011_Semester2_Labs\GAME1011_Lab1_Russell_Li\Lab1_Russell_Li.cpp(49,4): error C2065: 'ada': undeclared identifier
+C:\Users\russe\source\repos\GAME1011_Semester2_Labs\GAME1011_Lab1_Russell_Li\Lab1_Russell_Li.cpp(49,25): error C2065: 'achievements': undeclared identifier
+C:\Users\russe\source\repos\GAME1011_Semester2_Labs\GAME1011_Lab1_Russell_Li\Lab1_Russell_Li.cpp(50,4): error C2065: 'ada': undeclared identifier
+C:\Users\russe\source\repos\GAME1011_Semester2_Labs\GAME1011_Lab1_Russell_Li\Lab1_Russell_Li.cpp(50,19): error C2065: 'achievements': undeclared identifier
+C:\Users\russe\source\repos\GAME1011_Semester2_Labs\GAME1011_Lab1_Russell_Li\Lab1_Russell_Li.cpp(125,63): error C2440: '<function-style-cast>': cannot convert from 'initializer list' to 'Game'
+C:\Users\russe\source\repos\GAME1011_Semester2_Labs\GAME1011_Lab1_Russell_Li\Lab1_Russell_Li.cpp(125,63): message : No constructor could take the source type, or constructor overload resolution was ambiguous
